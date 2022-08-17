@@ -22,7 +22,7 @@ List<Produto> listaProdutos = new List<Produto>()
 #region Desenho menu programa principal
 int opcao = 0;
 
-while (opcao != 3)
+while (opcao != 4)
 {
 I: EscreverCabecalho();
 
@@ -46,6 +46,9 @@ I: EscreverCabecalho();
             new controleModuloFuncionarios().DesenharMenu(listaFuncionarios);
             break;
         case 3:
+            ConsultaCaixa();
+            break;
+        case 4:
             EncerrarAplicacao();
             break;
         default:
@@ -67,7 +70,7 @@ void MensagemDeErro()
 
 }
 
-void EscreverCabecalho() 
+void EscreverCabecalho()
 {
     Console.Clear();
     Console.WriteLine("=====================================================");
@@ -77,7 +80,8 @@ void EscreverCabecalho()
     Console.WriteLine("=====================================================");
     Console.WriteLine("===   Tecle 1 para: ACESSAR O MÓDULO [PRODUTOS]   ===");
     Console.WriteLine("=== Tecle 2 para: ACESSAR O MÓDULO [FUNCIONÁRIOS] ===");
-    Console.WriteLine("===       Tecle 3 para: ENCERRAR A APLICAÇÃO      ===");
+    Console.WriteLine("===  Tecle 3 para: CONSULTAR O CAIXA DA EMPRESA   ===");
+    Console.WriteLine("===       Tecle 4 para: ENCERRAR A APLICAÇÃO      ===");
     Console.WriteLine("=====================================================\n\n");
 }
 
@@ -88,5 +92,16 @@ void EncerrarAplicacao()
     Console.WriteLine("...     Você está encerrando a aplicação      ...");
     Console.WriteLine("...             Até a próxima!!!              ...");
     Console.WriteLine("\n\n=================================================\n\n");
+    Console.ReadKey();
+}
+
+void ConsultaCaixa()
+{
+    Console.Clear();
+    Console.WriteLine("======================================");
+    Console.WriteLine("===  CONSULTA AO CAIXA DA EMPRESA  ===");
+    Console.WriteLine("======================================\n\n");
+    Console.WriteLine($"...           No momento           ...");
+    Console.WriteLine($"...   Caixa da empresa = R$ {Caixa.valorCaixa}   ...");
     Console.ReadKey();
 }

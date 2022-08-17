@@ -8,6 +8,7 @@ namespace minimercado
 {
     public class Produto
     {
+        Caixa alterador = new();
         public string Codigo { get; private set; }
         public string Nome { get; set; }
         public string Marca { get; set; }
@@ -38,10 +39,12 @@ namespace minimercado
         public void Venda(int qtdVendida)
         {
             qtd_Estoque = qtd_Estoque - qtdVendida;
+            alterador.AdicionaCaixa(qtdVendida * Valor_Venda);
         }
         public void Compra(int qtdComprada)
         {
             qtd_Estoque = qtd_Estoque + qtdComprada;
+            alterador.ReduzCaixa(qtdComprada * Valor_Compra);
         }
     }
 }

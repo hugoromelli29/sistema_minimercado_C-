@@ -13,3 +13,18 @@ C:\Users\Hugo\Desktop\Minimercado da Selma\Minimercado da Selma\obj\Debug\net6.0
 C:\Users\Hugo\Desktop\Minimercado da Selma\Minimercado da Selma\obj\Debug\net6.0\Minimercado da Selma.pdb
 C:\Users\Hugo\Desktop\Minimercado da Selma\Minimercado da Selma\obj\Debug\net6.0\Minimercado da Selma.genruntimeconfig.cache
 C:\Users\Hugo\Desktop\Minimercado da Selma\Minimercado da Selma\obj\Debug\net6.0\ref\Minimercado da Selma.dll
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\bin\Debug\net6.0\Minimercado da Selma.exe
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\bin\Debug\net6.0\Minimercado da Selma.deps.json
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\bin\Debug\net6.0\Minimercado da Selma.runtimeconfig.json
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\bin\Debug\net6.0\Minimercado da Selma.dll
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\bin\Debug\net6.0\Minimercado da Selma.pdb
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\obj\Debug\net6.0\Minimercado da Selma.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\obj\Debug\net6.0\Minimercado da Selma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\obj\Debug\net6.0\Minimercado da Selma.AssemblyInfoInputs.cache
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\obj\Debug\net6.0\Minimercado da Selma.AssemblyInfo.cs
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\obj\Debug\net6.0\Minimercado da Selma.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\obj\Debug\net6.0\Minimercado da Selma.dll
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\obj\Debug\net6.0\refint\Minimercado da Selma.dll
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\obj\Debug\net6.0\Minimercado da Selma.pdb
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\obj\Debug\net6.0\Minimercado da Selma.genruntimeconfig.cache
+C:\Users\Hugo\Desktop\minimercado\Minimercado da Selma\obj\Debug\net6.0\ref\Minimercado da Selma.dll

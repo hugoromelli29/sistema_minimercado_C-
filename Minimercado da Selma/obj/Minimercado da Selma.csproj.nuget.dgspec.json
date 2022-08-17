@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hugo\\Desktop\\Minimercado da Selma\\Minimercado da Selma\\Minimercado da Selma.csproj": {}
+    "C:\\Users\\Hugo\\Desktop\\minimercado\\Minimercado da Selma\\Minimercado da Selma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hugo\\Desktop\\Minimercado da Selma\\Minimercado da Selma\\Minimercado da Selma.csproj": {
+    "C:\\Users\\Hugo\\Desktop\\minimercado\\Minimercado da Selma\\Minimercado da Selma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hugo\\Desktop\\Minimercado da Selma\\Minimercado da Selma\\Minimercado da Selma.csproj",
+        "projectUniqueName": "C:\\Users\\Hugo\\Desktop\\minimercado\\Minimercado da Selma\\Minimercado da Selma.csproj",
         "projectName": "Minimercado da Selma",
-        "projectPath": "C:\\Users\\Hugo\\Desktop\\Minimercado da Selma\\Minimercado da Selma\\Minimercado da Selma.csproj",
+        "projectPath": "C:\\Users\\Hugo\\Desktop\\minimercado\\Minimercado da Selma\\Minimercado da Selma.csproj",
         "packagesPath": "C:\\Users\\Hugo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hugo\\Desktop\\Minimercado da Selma\\Minimercado da Selma\\obj\\",
+        "outputPath": "C:\\Users\\Hugo\\Desktop\\minimercado\\Minimercado da Selma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -213,8 +213,8 @@ namespace minimercado
                     int quantidade = int.Parse(Console.ReadLine());
                     produtoBuscado.Compra(quantidade);
                     Console.WriteLine("... Compra registrada com sucesso! ...\n" +
-                                      "...       Estoque atualizado       ...");
-                    produtoBuscado.ExibeInformacoes();
+                    "...       Estoque atualizado       ...\n" +
+                    "...        Caixa atualizado        ...");
                 }
                 catch (Exception)
                 {
@@ -250,8 +250,8 @@ namespace minimercado
                     int quantidade = int.Parse(Console.ReadLine());
                     produtoBuscado.Venda(quantidade);
                     Console.WriteLine("... Venda registrada com sucesso! ...\n" +
-                                      "...       Estoque atualizado       ...");
-                    produtoBuscado.ExibeInformacoes();
+                    "...       Estoque atualizado       ...\n" +
+                    "...        Caixa atualizado        ...");
                 }
                 catch (Exception)
                 {
